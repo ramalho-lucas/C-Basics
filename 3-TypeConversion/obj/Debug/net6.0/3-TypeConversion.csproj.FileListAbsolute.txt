@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\3-TypeConversion.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\3-TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\3-TypeConversion.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\3-TypeConversion.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\3-TypeConversion.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\bin\Debug\net6.0\3-TypeConversion.exe
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\bin\Debug\net6.0\3-TypeConversion.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\bin\Debug\net6.0\3-TypeConversion.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\bin\Debug\net6.0\3-TypeConversion.dll
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\bin\Debug\net6.0\3-TypeConversion.pdb
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\3-TypeConversion.dll
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\refint\3-TypeConversion.dll
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\3-TypeConversion.pdb
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\3-TypeConversion.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\3-TypeConversion\obj\Debug\net6.0\ref\3-TypeConversion.dll

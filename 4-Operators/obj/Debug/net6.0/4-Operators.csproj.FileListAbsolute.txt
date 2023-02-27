@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\bin\Debug\net6.0\4-Operators.exe
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\bin\Debug\net6.0\4-Operators.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\bin\Debug\net6.0\4-Operators.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\bin\Debug\net6.0\4-Operators.dll
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\bin\Debug\net6.0\4-Operators.pdb
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\4-Operators.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\4-Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\4-Operators.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\4-Operators.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\4-Operators.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\4-Operators.dll
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\refint\4-Operators.dll
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\4-Operators.pdb
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\4-Operators.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\4-Operators\obj\Debug\net6.0\ref\4-Operators.dll

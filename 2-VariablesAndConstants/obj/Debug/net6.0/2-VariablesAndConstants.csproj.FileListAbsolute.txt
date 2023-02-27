@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\2-VariablesAndConstants.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\2-VariablesAndConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\2-VariablesAndConstants.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\2-VariablesAndConstants.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\2-VariablesAndConstants.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\bin\Debug\net6.0\2-VariablesAndConstants.exe
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\bin\Debug\net6.0\2-VariablesAndConstants.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\bin\Debug\net6.0\2-VariablesAndConstants.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\bin\Debug\net6.0\2-VariablesAndConstants.dll
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\bin\Debug\net6.0\2-VariablesAndConstants.pdb
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\2-VariablesAndConstants.dll
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\refint\2-VariablesAndConstants.dll
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\2-VariablesAndConstants.pdb
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\2-VariablesAndConstants.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\2-VariablesAndConstants\obj\Debug\net6.0\ref\2-VariablesAndConstants.dll
