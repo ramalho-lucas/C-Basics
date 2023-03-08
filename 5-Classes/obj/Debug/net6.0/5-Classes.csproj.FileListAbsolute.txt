@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\bin\Debug\net6.0\5-Classes.exe
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\bin\Debug\net6.0\5-Classes.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\bin\Debug\net6.0\5-Classes.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\bin\Debug\net6.0\5-Classes.dll
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\bin\Debug\net6.0\5-Classes.pdb
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\5-Classes.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\5-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\5-Classes.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\5-Classes.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\5-Classes.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\5-Classes.dll
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\refint\5-Classes.dll
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\5-Classes.pdb
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\5-Classes.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\5-Classes\obj\Debug\net6.0\ref\5-Classes.dll

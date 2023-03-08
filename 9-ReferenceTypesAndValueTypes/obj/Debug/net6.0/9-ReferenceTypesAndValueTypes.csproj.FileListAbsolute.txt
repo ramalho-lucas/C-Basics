@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\bin\Debug\net6.0\9-ReferenceTypesAndValueTypes.exe
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\bin\Debug\net6.0\9-ReferenceTypesAndValueTypes.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\bin\Debug\net6.0\9-ReferenceTypesAndValueTypes.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\bin\Debug\net6.0\9-ReferenceTypesAndValueTypes.dll
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\bin\Debug\net6.0\9-ReferenceTypesAndValueTypes.pdb
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\9-ReferenceTypesAndValueTypes.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\9-ReferenceTypesAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\9-ReferenceTypesAndValueTypes.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\9-ReferenceTypesAndValueTypes.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\9-ReferenceTypesAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\9-ReferenceTypesAndValueTypes.dll
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\refint\9-ReferenceTypesAndValueTypes.dll
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\9-ReferenceTypesAndValueTypes.pdb
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\9-ReferenceTypesAndValueTypes.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\9-ReferenceTypesAndValueTypes\obj\Debug\net6.0\ref\9-ReferenceTypesAndValueTypes.dll

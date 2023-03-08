@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\bin\Debug\net6.0\8-Enum.exe
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\bin\Debug\net6.0\8-Enum.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\bin\Debug\net6.0\8-Enum.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\bin\Debug\net6.0\8-Enum.dll
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\bin\Debug\net6.0\8-Enum.pdb
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\8-Enum.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\8-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\8-Enum.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\8-Enum.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\8-Enum.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\8-Enum.dll
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\refint\8-Enum.dll
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\8-Enum.pdb
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\8-Enum.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\8-Enum\obj\Debug\net6.0\ref\8-Enum.dll

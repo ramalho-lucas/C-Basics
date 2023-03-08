@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\bin\Debug\net6.0\7-Strings.exe
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\bin\Debug\net6.0\7-Strings.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\bin\Debug\net6.0\7-Strings.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\bin\Debug\net6.0\7-Strings.dll
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\bin\Debug\net6.0\7-Strings.pdb
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\7-Strings.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\7-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\7-Strings.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\7-Strings.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\7-Strings.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\7-Strings.dll
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\refint\7-Strings.dll
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\7-Strings.pdb
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\7-Strings.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\7-Strings\obj\Debug\net6.0\ref\7-Strings.dll
