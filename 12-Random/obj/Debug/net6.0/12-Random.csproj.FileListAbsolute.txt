@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\bin\Debug\net6.0\12-Random.exe
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\bin\Debug\net6.0\12-Random.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\bin\Debug\net6.0\12-Random.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\bin\Debug\net6.0\12-Random.dll
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\bin\Debug\net6.0\12-Random.pdb
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\12-Random.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\12-Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\12-Random.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\12-Random.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\12-Random.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\12-Random.dll
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\refint\12-Random.dll
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\12-Random.pdb
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\12-Random.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\12-Random\obj\Debug\net6.0\ref\12-Random.dll

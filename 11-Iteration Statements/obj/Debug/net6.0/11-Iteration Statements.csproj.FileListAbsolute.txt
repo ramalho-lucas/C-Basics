@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\bin\Debug\net6.0\11-Iteration Statements.exe
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\bin\Debug\net6.0\11-Iteration Statements.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\bin\Debug\net6.0\11-Iteration Statements.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\bin\Debug\net6.0\11-Iteration Statements.dll
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\bin\Debug\net6.0\11-Iteration Statements.pdb
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\11-Iteration Statements.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\11-Iteration Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\11-Iteration Statements.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\11-Iteration Statements.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\11-Iteration Statements.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\11-Iteration Statements.dll
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\refint\11-Iteration Statements.dll
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\11-Iteration Statements.pdb
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\11-Iteration Statements.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\11-Iteration Statements\obj\Debug\net6.0\ref\11-Iteration Statements.dll

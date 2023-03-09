@@ -1,0 +1,15 @@
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\bin\Debug\net6.0\10-ConditionalStatements.exe
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\bin\Debug\net6.0\10-ConditionalStatements.deps.json
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\bin\Debug\net6.0\10-ConditionalStatements.runtimeconfig.json
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\bin\Debug\net6.0\10-ConditionalStatements.dll
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\bin\Debug\net6.0\10-ConditionalStatements.pdb
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\10-ConditionalStatements.csproj.AssemblyReference.cache
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\10-ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\10-ConditionalStatements.AssemblyInfoInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\10-ConditionalStatements.AssemblyInfo.cs
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\10-ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\10-ConditionalStatements.dll
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\refint\10-ConditionalStatements.dll
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\10-ConditionalStatements.pdb
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\10-ConditionalStatements.genruntimeconfig.cache
+C:\Lucas\Csharp\git\CSharp-basics\10-ConditionalStatements\obj\Debug\net6.0\ref\10-ConditionalStatements.dll
